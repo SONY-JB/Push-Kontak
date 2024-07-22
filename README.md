@@ -8,7 +8,7 @@
 </p>
 
 ## Baca Dulu Mas Mba
-╭──❒ <b>All MENU BOT</b><br>
+╭──❒ <b>All MENU BOT SONY JB😈</b><br>
 ├• 📌 #pushkontak [text]<br>
 ├• 📌 #pushid [idgroup]|[text]<br>
 ├• 📌 #savekontak [idgroup]<br>
@@ -30,8 +30,8 @@
 - Konfigurasi Owner Pada ```./setting/config.js```
 
 ```ts
-global.owner = ["6285742632270"];
-global.author = "RezaDevv";
+global.owner = ["+6285855190922"];
+global.author = "sony jb";
 global.packname = "Push-Kontak";
 global.sessionName = "Bot-Session";
 global.versionbot = "1.2.0";
